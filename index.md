@@ -8,8 +8,8 @@
 [Seven Client](Sevenclient.java)
 [Seven Server](Sevenserver.java)
 
-[Eight Client](Eightclient.java)
-[Eight Server](Eightserver.java)
+[Eight Client](Eigthclient.java)
+[Eight Server](Eigthserver.java)
 
 [Ninth Program](Ninth.java)
 
