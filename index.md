@@ -1,8 +1,9 @@
 ---
-title: Java Socket Programming & Core Java Programs
+title: My Java Program Collection
 ---
 
 # 🚀 My Java Program Collection
+
 
 Welcome to my Java code showcase!  
 Here you will find all my **client-server socket programs** and **core Java practice files**.
